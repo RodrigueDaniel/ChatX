@@ -1,4 +1,4 @@
-# ChatterFlux 💬
+# ChatX 💬
 
 A modern, real-time chat application built with React, Node.js, and Socket.io. ChatterFlux offers a seamless messaging experience with real-time communication, user authentication, and a beautiful, responsive UI.
 
