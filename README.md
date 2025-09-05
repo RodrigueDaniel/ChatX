@@ -50,7 +50,7 @@ A modern, real-time chat application built with React, Node.js, and Socket.io. C
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd ChatterFlux-main
+   cd ChatX-main
    ```
 
 2. **Install dependencies**
